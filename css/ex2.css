@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: navy;
+}
+section{
+    margin: 0 auto;
+    width: 50%;
+    background-color: aquamarine;
+}
